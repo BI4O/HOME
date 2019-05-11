@@ -1,7 +1,5 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 
-=======
-
 # Welcome to my world !!!
 
 ###### Find me by visiting  https://github.com/BI4O
@@ -61,5 +59,3 @@
   - [CS224N - Stanford - 2019 深度学习+自然语言处理公开课 ](https://github.com/BI4O/CS224N-Stanford-Winter-2019)
   - [2019届秋招面经集合](https://github.com/BI4O/2019-Autumn-recruitment-experience)
   - [换脸技术 by Deepfakes/faceswap](https://github.com/BI4O/faceswap)
-
-> > > > > > > 08648e3ed7375ae9babd1a423e2391e51f64b2f6
